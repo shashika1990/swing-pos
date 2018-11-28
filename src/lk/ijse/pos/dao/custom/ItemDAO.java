@@ -10,7 +10,7 @@ import lk.ijse.pos.entity.Item;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface ItemDAO extends CrudDAO<Item,String>{
     

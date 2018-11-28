@@ -11,7 +11,7 @@ import lk.ijse.pos.dto.CustomerDTO;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface CustomerBO extends SuperBO{
     

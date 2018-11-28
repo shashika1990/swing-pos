@@ -12,7 +12,7 @@ import lk.ijse.pos.entity.OrderDetail_PK;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class OrderDetailDAOImpl extends CrudDAOImpl<OrderDetail, OrderDetail_PK> implements OrderDetailDAO {
 

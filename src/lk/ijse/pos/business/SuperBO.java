@@ -7,7 +7,7 @@ package lk.ijse.pos.business;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface SuperBO {
     

@@ -9,7 +9,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface SuperDAO {
     

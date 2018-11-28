@@ -11,7 +11,7 @@ import lk.ijse.pos.business.custom.impl.OrderBOImpl;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class BOFactory {
     

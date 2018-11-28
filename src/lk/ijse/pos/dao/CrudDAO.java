@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface CrudDAO<T, ID> extends SuperDAO{
     

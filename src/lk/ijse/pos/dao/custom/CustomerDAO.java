@@ -10,7 +10,7 @@ import lk.ijse.pos.entity.Customer;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface CustomerDAO extends CrudDAO<Customer,String>{
     

@@ -11,7 +11,7 @@ import lk.ijse.pos.entity.Customer;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class CustomerDAOImpl extends CrudDAOImpl<Customer, String> implements CustomerDAO {
 

@@ -11,7 +11,7 @@ import lk.ijse.pos.entity.Item;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class ItemDAOImpl extends CrudDAOImpl<Item, String> implements ItemDAO {
 

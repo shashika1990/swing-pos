@@ -7,7 +7,7 @@ package lk.ijse.pos.dto;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class ItemDTO {
     

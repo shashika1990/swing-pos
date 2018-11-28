@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class CustomEntity {
     

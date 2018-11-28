@@ -11,7 +11,7 @@ import lk.ijse.pos.dto.ItemDTO;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface ItemBO extends SuperBO{
     

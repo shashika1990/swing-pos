@@ -14,7 +14,7 @@ import javax.persistence.OneToMany;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 @Entity
 public class Customer {

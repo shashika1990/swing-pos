@@ -11,7 +11,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class CrudDAOImpl<T, ID> implements CrudDAO<T, ID>{
     

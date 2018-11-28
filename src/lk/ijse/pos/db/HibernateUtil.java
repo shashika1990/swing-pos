@@ -19,7 +19,7 @@ import org.hibernate.mapping.MetadataSource;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class HibernateUtil {
     

@@ -5,10 +5,6 @@
  */
 package lk.ijse.pos.dao;
 
-import lk.ijse.pos.dao.custom.CustomerDAO;
-import lk.ijse.pos.dao.custom.ItemDAO;
-import lk.ijse.pos.dao.custom.OrderDetailDAO;
-import lk.ijse.pos.dao.custom.OrdersDAO;
 import lk.ijse.pos.dao.custom.impl.CustomerDAOImpl;
 import lk.ijse.pos.dao.custom.impl.ItemDAOImpl;
 import lk.ijse.pos.dao.custom.impl.OrderDetailDAOImpl;
@@ -17,7 +13,7 @@ import lk.ijse.pos.dao.custom.impl.QueryDAOImpl;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class DAOFactory {
     

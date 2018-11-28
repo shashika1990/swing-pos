@@ -12,7 +12,7 @@ import lk.ijse.pos.entity.OrderDetail_PK;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface OrderDetailDAO extends CrudDAO<OrderDetail, OrderDetail_PK>{
     

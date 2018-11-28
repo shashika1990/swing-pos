@@ -12,7 +12,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 @Entity
 public class OrderDetail {

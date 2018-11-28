@@ -20,7 +20,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 @Entity
 @Table(name = "`Orders`")

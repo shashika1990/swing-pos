@@ -11,7 +11,7 @@ import lk.ijse.pos.entity.CustomEntity;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface QueryDAO extends SuperDAO {
 

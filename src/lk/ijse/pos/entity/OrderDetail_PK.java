@@ -10,7 +10,7 @@ import javax.persistence.Embeddable;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 @Embeddable
 public class OrderDetail_PK implements Serializable{

@@ -12,7 +12,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class QueryDAOImpl implements QueryDAO {
 

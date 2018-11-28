@@ -17,7 +17,7 @@ import org.hibernate.SessionFactory;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public class TestClass {
     

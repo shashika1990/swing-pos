@@ -12,7 +12,7 @@ import lk.ijse.pos.dto.OrderDTO;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface OrderBO extends SuperBO{
     

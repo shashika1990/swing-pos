@@ -11,7 +11,7 @@ import lk.ijse.pos.entity.Orders;
 
 /**
  *
- * @author ranjith-suranga
+ * @author janith
  */
 public interface OrdersDAO extends CrudDAO<Orders, String>{
     
